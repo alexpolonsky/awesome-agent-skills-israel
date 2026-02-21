@@ -13,7 +13,7 @@ Looking for developer-focused agent skills? See [VoltAgent/awesome-agent-skills]
 
 ## Contents
 
-- [Health & Pharmacy](#health--pharmacy)
+- [Health & Fitness](#health--fitness)
 - [Food & Restaurants](#food--restaurants)
 - [Language & Localization](#language--localization)
 - [Security & Alerts](#security--alerts)
@@ -35,8 +35,9 @@ Skills that need extra setup beyond installation are tagged:
 - `Browser tool required` - Requires browser automation in the agent.
 - `MCP server required` - Requires connecting to an external MCP endpoint.
 
-## Health & Pharmacy
+## Health & Fitness
 
+- [Arbox Auto-Booking](https://github.com/WolfikOz/arbox-auto-booking) - Automatically book fitness classes at Arbox-powered gyms the moment booking opens, with schedule configuration, monthly limit tracking, and dry-run support.
 - [Clalit Pharm Search](https://github.com/tomron/agent-skill-clalit-pharm-search) - Search medications and check real-time stock availability at Clalit (כללית) pharmacies across Israel.
 - [Maccabi Pharm Search](https://github.com/alexpolonsky/agent-skill-maccabi-pharm-search) - Search medications and check real-time stock availability at Maccabi pharmacy branches across Israel.
 
@@ -88,7 +89,7 @@ Skills that need extra setup beyond installation are tagged:
 
 ## Utilities & Home Services
 
-- [Arbox Auto-Booking](https://github.com/WolfikOz/arbox-auto-booking) - Automatically book fitness classes on Arbox-powered gyms the moment booking opens, with schedule configuration, monthly limit tracking, and dry-run support.
+*Contributions welcome! See [suggesting a skill](CONTRIBUTING.md#suggesting-a-skill).*
 
 ## What is an Agent Skill?
 
