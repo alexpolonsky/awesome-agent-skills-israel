@@ -29,6 +29,7 @@ Looking for developer-focused agent skills? See [VoltAgent/awesome-agent-skills]
 
 ## Health & Pharmacy
 
+- [Clalit Pharm Search](https://github.com/tomron/agent-skill-clalit-pharm-search) - Search medications and check real-time stock availability at Clalit (כללית) pharmacies across Israel.
 - [Maccabi Pharm Search](https://github.com/alexpolonsky/agent-skill-maccabi-pharm-search) - Search medications and check real-time stock availability at Maccabi pharmacy branches across Israel.
 
 ## Food & Restaurants
