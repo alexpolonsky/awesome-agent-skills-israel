@@ -15,6 +15,7 @@ Looking for developer-focused agent skills? See [VoltAgent/awesome-agent-skills]
 
 - [Health & Pharmacy](#health--pharmacy)
 - [Food & Restaurants](#food--restaurants)
+- [Culture & Entertainment](#culture--entertainment)
 - [Language & Localization](#language--localization)
 - [Security & Alerts](#security--alerts)
 - [Libraries & Reading](#libraries--reading)
@@ -44,6 +45,10 @@ Skills that need extra setup beyond installation are tagged:
 
 - [Ontopo](https://github.com/alexpolonsky/agent-skill-ontopo) - Search Israeli restaurants, check table availability across date ranges, view menus, and get booking links via Ontopo.
 - [Wolt Orders](https://github.com/openclaw/skills/tree/main/skills/dviros/wolt-orders) - Discover restaurants, place orders, track deliveries, and contact support on Wolt. `Browser tool required`
+
+## Culture & Entertainment
+
+- [Timemap](https://github.com/alexpolonsky/agent-skill-timemap) - Search historical entertainment, nightlife, and culture venues in Tel Aviv-Yafo and Haifa from timemap.co.il.
 
 ## Language & Localization
 
