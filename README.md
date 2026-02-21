@@ -88,7 +88,7 @@ Skills that need extra setup beyond installation are tagged:
 
 ## Utilities & Home Services
 
-*Contributions welcome! See [suggesting a skill](CONTRIBUTING.md#suggesting-a-skill).*
+- [Arbox Auto-Booking](https://github.com/WolfikOz/arbox-auto-booking) - Automatically book fitness classes on Arbox-powered gyms the moment booking opens, with schedule configuration, monthly limit tracking, and dry-run support.
 
 ## What is an Agent Skill?
 
