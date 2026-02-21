@@ -27,6 +27,14 @@ Looking for developer-focused agent skills? See [VoltAgent/awesome-agent-skills]
 - [Jewish Calendar & Holidays](#jewish-calendar--holidays)
 - [Utilities & Home Services](#utilities--home-services)
 
+### Legend
+
+Skills that need extra setup beyond installation are tagged:
+
+- `API key required` - Requires registering for an API key or account.
+- `Browser tool required` - Requires browser automation in the agent.
+- `MCP server required` - Requires connecting to an external MCP endpoint.
+
 ## Health & Pharmacy
 
 - [Clalit Pharm Search](https://github.com/tomron/agent-skill-clalit-pharm-search) - Search medications and check real-time stock availability at Clalit (כללית) pharmacies across Israel.
@@ -34,7 +42,6 @@ Looking for developer-focused agent skills? See [VoltAgent/awesome-agent-skills]
 
 ## Food & Restaurants
 
-- [Jerusalem Coffee Finder](https://github.com/alexpolonsky/agent-skill-jlm-coffee) - Search Jerusalem specialty coffee shops by name, amenities, ratings, and opening hours.
 - [Ontopo](https://github.com/alexpolonsky/agent-skill-ontopo) - Search Israeli restaurants, check table availability across date ranges, view menus, and get booking links via Ontopo.
 - [Wolt Orders](https://github.com/openclaw/skills/tree/main/skills/dviros/wolt-orders) - Discover restaurants, place orders, track deliveries, and contact support on Wolt. `Browser tool required`
 

@@ -29,6 +29,22 @@ Rules:
 - English only, even if the skill supports Hebrew.
 - Alphabetical order within each category.
 
+## Dependency tags
+
+If a skill requires setup beyond a simple npm/pip install, append a dependency tag in backticks at the end of the entry:
+
+```
+- [Name](url) - Description. `API key required`
+```
+
+Available tags:
+
+- `API key required` - Needs an API key or account registration.
+- `Browser tool required` - Needs browser automation capabilities.
+- `MCP server required` - Needs an external MCP endpoint configured.
+
+Don't tag skills that only need a standard CLI install (npm/pip/brew).
+
 ## Quality bar
 
 Before submitting, make sure the skill:
