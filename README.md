@@ -66,6 +66,7 @@ Skills that need extra setup beyond installation are tagged:
 
 ## Transport & Navigation
 
+- [Israel Post Tracking](https://github.com/WolfikOz/israel-post-tracking) - Track packages and mail via Israel Post (דואר ישראל) — domestic and international shipments, full event history in Hebrew/English. `Browser tool required`
 - [Railil](https://github.com/openclaw/skills/tree/main/skills/lirantal/skill-railil) - Search Israel Rail train schedules between stations with fuzzy search, date/time filtering, and multiple output formats.
 
 ## Government & Bureaucracy
