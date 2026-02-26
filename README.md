@@ -44,6 +44,7 @@ Skills that need extra setup beyond installation are tagged:
 
 ## Food & Restaurants
 
+- [jlm-coffee](https://github.com/alexpolonsky/agent-skill-jlm-coffee) - Search specialty coffee shops in Jerusalem by name, amenities, ratings, and opening hours.
 - [Ontopo](https://github.com/alexpolonsky/agent-skill-ontopo) - Search Israeli restaurants, check table availability across date ranges, view menus, and get booking links via Ontopo.
 - [Wolt Orders](https://github.com/openclaw/skills/tree/main/skills/dviros/wolt-orders) - Discover restaurants, place orders, track deliveries, and contact support on Wolt. `Browser tool required`
 
